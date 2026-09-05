@@ -83,4 +83,23 @@ print(10 % 2 == 0) # 10 % 2 là để ktra nó chia hết cho 2 ko, ==0 là xem 
 number = 7
 print(number % 2 == 0)
 
-# còn 18.
+
+print(7//3 == int(2.7))
+print(type('10') == type(10))
+print(int(float('9.8')) == 10)
+
+user_hours = (float(input('enter hours:')))
+rate_per_hour = (float(input('Enter rate per hour:')))
+earning = user_hours * rate_per_hour
+print('Your weekly earning is' + str(earning))
+
+years = float(input('Enter number of years you have lived.. or dont:'))
+secon = 365 * 24 * 60 * 60 * years
+print('You wont live long, but you have lived for' + str(secon) + 'seconds, yey')
+
+# are you fucking kidding me
+print('1 1 1 1 1')
+print('2 1 2 4 8')
+print('3 1 3 9 27')
+print('4 1 4 16 64')
+print('5 1 5 25 125')
