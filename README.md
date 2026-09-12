@@ -21,8 +21,8 @@ hm.. ( •̀ ω •́ )✧ Welcome! This repo contains all my practice code, exe
 
 | Day | Topic | Status | Link |
 | :-: | :--- | :-: | :-: |
-| 01 | Day 1 - Introduction | ✅ |
-| 02 | Day 2 - Variables, Built-in Functions | ✅ |
-| 03 | Day 3 - Operators | 💤 | ✅ |
-| 04 | Day 4 - Strings | 💤 | - | (not finished!!)
+| 01 | Day 1 - Introduction | ✅ | [View](./day1_exercise.py) |
+| 02 | Day 2 - Variables, Built-in Functions | ✅ | [View](./day2_exercise.py) |
+| 03 | Day 3 - Operators | ✅ | [View](./day3_exercise.py) |
+| 04 | Day 4 - Strings | ⏳ (not finished!!) | [View](./day4_exercise.py) |
 | ... | *More coming soon!* | 💤 | - |
