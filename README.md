@@ -1,28 +1,12 @@
-<div align="center">
+# 🐍 30 Days of Python
 
-# 🧁 My Python Journey ૮ ˶ᵔ ᵕ ᵔ˶ ა
-*Learning Python step-by-step with 30 Days of Python with NatQwQ :3* 💫
+Personal practice solutions and notes for the [30 Days of Python](https://github.com/Asabeneh/30-Days-Of-Python) challenge.
 
-![Python](https://img.shields.io/badge/Python-3.10%2B-ffb6c1?style=for-the-badge&logo=python&logoColor=white)
-![Status](https://img.shields.io/badge/Status-In_Progress-b19ffb?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-a8e6cf?style=for-the-badge)
+## 📂 Repository Structure
 
-</div>
+All exercise scripts are stored in the root directory following the standard naming format:
 
----
-
-### 🌸 About This Repository
-> *"The secret to getting ahead is getting started."*  
-hm.. ( •̀ ω •́ )✧ Welcome! This repo contains all my practice code, exercise solutions, and personal notes while following along with [Asabeneh's 30 Days of Python](https://github.com/asabeneh/30-days-of-python) challenge.
+- `dayX_exercise.py` — Practice code and exercise solutions.
 
 ---
-
-### 🐾 Progress Tracker
-
-| Day | Topic | Status | Link |
-| :-: | :--- | :-: | :-: |
-| 01 | Day 1 - Introduction | ✅ | [View](./day1_exercise.py) |
-| 02 | Day 2 - Variables, Built-in Functions | ✅ | [View](./day2_exercise.py) |
-| 03 | Day 3 - Operators | ✅ | [View](./day3_exercise.py) |
-| 04 | Day 4 - Strings | ⏳ (not finished!!) | [View](./day4_exercise.py) |
-| ... | *More coming soon!* | 💤 | - |
+*No manual progress tables to update. Check the file list above for the latest code.*
